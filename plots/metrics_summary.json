@@ -1,0 +1,12 @@
+{
+  "value_epoch": 5,
+  "train_corr": 0.8595115542411804,
+  "train_mae": 0.03887775540351868,
+  "train_pred_std": 0.10155073553323746,
+  "train_target_std": 0.13886310160160065,
+  "holdout_corr": 0.9169330596923828,
+  "holdout_mae": 0.021024368703365326,
+  "holdout_pred_std": 0.05595378577709198,
+  "holdout_target_std": 0.06919554620981216,
+  "mean_loss": 3.0999836803041187
+}
